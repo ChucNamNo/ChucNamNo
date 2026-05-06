@@ -29,7 +29,3 @@ High-achieving Information Systems student with a solid foundation in Data Scien
 <a href="https://github.com/ChucNamNo/E-commerce-Customer-Segmentation/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChucNamNo&repo=E-commerce-Customer-Segmentation&theme=merko" />
 </a>
-<a href="https://github.com/ChucNamNo/ALPR-System/">
-  <!-- Thay 'ALPR-System' bằng tên repo chính xác của bạn nếu có, hoặc xóa thẻ <a> này đi nếu chưa có -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChucNamNo&repo=ALPR-System&theme=radical" />
-</a>
