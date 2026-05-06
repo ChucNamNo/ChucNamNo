@@ -2,7 +2,7 @@
 My name is Pham Long Chuc. I am an AI Intern and Data Enthusiast. I am currently studying Information Systems at Thai Nguyen University of Information and Communication Technology (ICTU) with a GPA of 3.94/4.0. I am passionate about Data Science, Computer Vision, and building end-to-end Machine Learning pipelines.
 
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/longchucpham/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/longchucpham/) 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ChucNamNo/)
 [![Email](https://i.stack.imgur.com/8Q5qQ.png) Email](mailto:longchuc05@gmail.com)
 
@@ -22,10 +22,14 @@ High-achieving Information Systems student with a solid foundation in Data Scien
 
 ---
 
-![Long Chuc's github stats](https://github-readme-stats.vercel.app/api?username=ChucNamNo&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Long Chuc's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ChucNamNo&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 ### 💻 Key Projects
 
 <a href="https://github.com/ChucNamNo/E-commerce-Customer-Segmentation/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChucNamNo&repo=E-commerce-Customer-Segmentation&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChucNamNo&repo=E-commerce-Customer-Segmentation&theme=merko" />
+</a>
+<a href="https://github.com/ChucNamNo/ALPR-System/">
+  <!-- Thay 'ALPR-System' bằng tên repo chính xác của bạn nếu có, hoặc xóa thẻ <a> này đi nếu chưa có -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChucNamNo&repo=ALPR-System&theme=radical" />
 </a>
