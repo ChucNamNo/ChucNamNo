@@ -3,6 +3,7 @@ My name is Pham Long Chuc[cite: 1]. I am an AI Intern and Data Enthusiast[cite: 
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/longchucpham/)[cite: 1] 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ChucNamNo/)
 [![Email](https://i.stack.imgur.com/8Q5qQ.png) Email](mailto:longchuc05@gmail.com)[cite: 1]
 
 ## 🚀 Professional Summary
@@ -21,11 +22,9 @@ High-achieving Information Systems student with a solid foundation in Data Scien
 
 ---
 
-![Long Chuc's github stats](https://github-readme-stats.vercel.app/api?username=longchucpham&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Long Chuc's github stats](https://github-readme-stats.vercel.app/api?username=ChucNamNo&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 ### 💻 Key Projects
-
-<!-- Hãy tạo 2 repo trên GitHub có tên là 'ALPR-System' và 'E-commerce-Customer-Segmentation' để các thẻ này hoạt động, và nhớ đổi 'longchucpham' thành username của bạn -->
 
 <a href="https://github.com/ChucNamNo/E-commerce-Customer-Segmentation/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChucNamNo&repo=E-commerce-Customer-Segmentation&theme=merko" />
