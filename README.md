@@ -14,12 +14,6 @@ High-achieving Information Systems student with a solid foundation in Data Scien
 * **Soft Skills:** Analytical Thinking & Problem Solving, Strong Self-Study & Technical Research Capabilities.
 * **Languages:** English (Proficient in reading and comprehending technical documentation).
 
-## 🏆 Certifications
-* **Google Data Analytics Professional Certificate** (2024-2025)
-* **Data Analysis Essentials Using Excel** (2026)
-* **Statistics for Data Science and Business Analysis** (2026)
-* **SQL Skill Verification** | HackerRank (2024 - Present)
-
 ---
 
 ![Long Chuc's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ChucNamNo&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
