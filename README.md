@@ -30,3 +30,6 @@ High-achieving Information Systems student with a solid foundation in Data Scien
 <a href="https://github.com/ChucNamNo/HR-Attrition-Analysis-Report-2026-">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChucNamNo&repo=HR-Attrition-Analysis-Report-2026-&theme=merko" />
 </a>
+<a href="https://github.com/ChucNamNo/Vehicle-Detection">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChucNamNo&repo=Vehicle-Detection&theme=merko" />
+</a>
