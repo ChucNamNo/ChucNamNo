@@ -18,8 +18,12 @@ High-achieving Information Systems student with a solid foundation in Data Scien
 
 ![Long Chuc's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=ChucNamNo&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+
 ### 💻 Key Projects
 
 <a href="https://github.com/ChucNamNo/E-commerce-Customer-Segmentation/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChucNamNo&repo=E-commerce-Customer-Segmentation&theme=merko" />
+</a>
+<a href="https://github.com/ChucNamNo/Customer-Segment">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ChucNamNo&repo=Customer-Segment&theme=merko" />
 </a>
