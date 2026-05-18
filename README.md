@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Pham Long Chuc. I am an AI Intern and Data Enthusiast. I am currently studying Information Systems at Thai Nguyen University of Information and Communication Technology (ICTU) with a GPA of 3.94/4.0. I am passionate about Data Science, Computer Vision, and building end-to-end Machine Learning pipelines.
 
-## 📫 How to reach me: 
+## 📫 How to reach me:  
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/longchucpham/) 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ChucNamNo/)
 [![Email](https://i.stack.imgur.com/8Q5qQ.png) Email](mailto:longchuc05@gmail.com)
