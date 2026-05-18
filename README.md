@@ -2,9 +2,9 @@
 My name is Pham Long Chuc. I am an AI Intern and Data Enthusiast. I am currently studying Information Systems at Thai Nguyen University of Information and Communication Technology (ICTU) with a GPA of 3.94/4.0. I am passionate about Data Science, Computer Vision, and building end-to-end Machine Learning pipelines.
 
 ## 📫 How to reach me:  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/longchucpham/) 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ChucNamNo/)
-[![Email](https://i.stack.imgur.com/8Q5qQ.png) Email](mailto:longchuc05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/longchucpham/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChucNamNo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:longchuc05@gmail.com)
 
 ## 🚀 Professional Summary
 High-achieving Information Systems student with a solid foundation in Data Science and Computer Vision. I have hands-on experience in building end-to-end pipelines using Python (Pandas, NumPy, Matplotlib) and SQL. My focus is on implementing Machine Learning models such as YOLOv8 for object detection and clustering algorithms (K-means, DBSCAN) for data analysis. Armed with a Google Data Analytics Professional Certificate, I am eager to deliver actionable insights and high-performance solutions.
